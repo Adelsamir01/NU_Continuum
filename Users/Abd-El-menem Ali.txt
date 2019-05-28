@@ -1,0 +1,7 @@
+Name: Abd-El-menem Ali
+ID: 233242
+Email: ab.ali@nu.edu.eg
+Password: asdf
+Gender: male
+School of Engineering and Applied Sciences (EAS)
+Bachelor of Science in Industrial Engineering and Management (ISEM)

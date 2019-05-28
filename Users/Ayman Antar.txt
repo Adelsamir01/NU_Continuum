@@ -1,0 +1,7 @@
+Name: Ayman Antar
+ID: 192321
+Email: aymanantar2@gmail.com
+Password: aymanantar
+Gender: male
+School of Engineering and Applied Sciences (EAS)
+Bachelor of Science in Industrial Engineering and Management (ISEM)

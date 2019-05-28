@@ -1,0 +1,7 @@
+Name: Hazem Ismail
+ID: 1812239
+Email: h221@nu.edu.eg
+Password: asdfa
+Gender: male
+School of Information Technology and CS (ITCS)
+Bachelor of Science in Computer Science (CS)

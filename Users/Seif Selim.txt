@@ -1,0 +1,7 @@
+Name: Seif Selim
+ID: 182321
+Email: seif@nu.edu.eg
+Password: sd123
+Gender: male
+School of Information Technology and CS (ITCS)
+Bachelor of Science in Biomedical Informatics

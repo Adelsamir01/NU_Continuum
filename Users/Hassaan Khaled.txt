@@ -1,0 +1,7 @@
+Name: Hassaan Khaled
+ID: 18104233
+Email: Hassan@nu.edu.eg
+Password: 12ewsa
+Gender: male
+School of Engineering and Applied Sciences (EAS)
+Bachelor of: Science in Mechanical Engineering (MENG)

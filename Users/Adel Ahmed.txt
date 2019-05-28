@@ -1,0 +1,7 @@
+Name: Adel Ahmed
+ID: 1823922
+Email: adel@nu.edu.eg
+Password: asd2ef
+Gender: male
+School of Information Technology and CS (ITCS)
+Bachelor of Science in Biomedical Informatics

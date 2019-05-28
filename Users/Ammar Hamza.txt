@@ -1,0 +1,6 @@
+Name: Ammar Hamza
+ID: 18100233
+Email: Ammar@nu.edu.eg
+Password: 3231d
+Gender: male
+School of Business Administration (BA)

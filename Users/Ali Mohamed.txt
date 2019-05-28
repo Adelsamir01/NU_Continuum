@@ -1,0 +1,7 @@
+Name: Ali Mohamed
+ID: 18600463
+Email: Ali@nu.edu.eg
+Password: asdf
+Gender: male
+School of Information Technology and CS (ITCS)
+Bachelor of Science in Biomedical Informatics

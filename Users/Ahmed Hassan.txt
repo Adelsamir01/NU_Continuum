@@ -1,0 +1,7 @@
+Name: Ahmed Hassan
+ID: 1820231
+Email: Ahmed@nu.edu.eg
+Password: asdf
+Gender: male
+School of Information Technology and CS (ITCS)
+Bachelor of Science in Biomedical Informatics
